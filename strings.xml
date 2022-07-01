@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment 7 CS453</string>
+    <string name="contactName">Name</string>
+    <string name="contactNumber">Number</string>
+    <string name="contactEmail">Email</string>
+    <string name="addDataButton">Add Data</string>
+    <string name="cancelButton">Cancel Adding Contact</string>
+    <string name="addButton">Add Contact</string>
+    <string name="viewButton">View Contacts</string>
+    <string name="deleteButton">Delete</string>
+</resources>
